@@ -2,7 +2,7 @@
 
 I'm Carina, a student at Cornell University majoring in Information Science (Data Science concentration) and Communication, with minors in Biometry & Statistics and Business. I'm passionate about combining data-driven decision-making with storytelling to create impactful solutions.
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
 - What I do:
   - Data analysis and visualization
@@ -26,6 +26,13 @@ I'm Carina, a student at Cornell University majoring in Information Science (Dat
 - Interactive data visualizations with R, tidyverse
 
 - Enhancing Excel proficiency with macros and VBA
+
+- Relevant coursework @ Cornell:
+  - Data Science (INFO 2950)
+  - Causal Inference (INFO 3900)
+  - Computing in Python (CS 1110)
+  - Biological Statistics (BTRY 3010)
+  - Visual Communication (COMM 1300)
 
 ## 📫 How to Reach Me
 
