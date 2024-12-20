@@ -1,4 +1,4 @@
-## Hi there, thanks for stopping by! 👋
+## Hi there. Thanks for stopping by! 👋
 
 I'm Carina, a student at Cornell University majoring in Information Science (Data Science concentration) and Communication, with minors in Biometry & Statistics and Business. I'm passionate about combining data-driven decision-making with storytelling to create impactful solutions.
 
@@ -6,13 +6,13 @@ I'm Carina, a student at Cornell University majoring in Information Science (Dat
 
 - What I do:
   - Data analysis and visualization
+  - Data science
   - Statistical modeling and hypothesis testing
   - Machine learning
 
 - Skills:
-  - Languages & Tools: Python, SQL, R, NumPy, Pandas, Excel
-  - Technologies: Tableau, HTML/CSS
-  - Specialties: Business strategy, marketing insights, sports analytics
+  - Languages & Tools: Python, SQL, R, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Excel
+  - Technologies: Tableau, HTML/CSS, R Studio
 
 - Interests:
   - Tackling real-world challenges in business analytics, tech consulting
@@ -37,10 +37,10 @@ I'm Carina, a student at Cornell University majoring in Information Science (Dat
 
 ## 🚀 Fun Facts
 
-- Love public speaking! TA'd Oral Communication (COMM 2010) at Cornell and judged annual Cornell speech contest.
+- Passionate about public speaking! TA'd Oral Communication (COMM 2010) at Cornell for two semesters and organized and judged an annual Cornell speech contest!
 
-- Always up for a challenging case study or collaborative project!
+- Always up for a challenging case study or collaborative project — love working in teams. As a business analyst for the <a href = "https://www.grccornell.org/">Global Research and Consulting Group</a>, it's all about tackling challenging real-world business challenges with a team!
 
-Thanks for visiting my GitHub! Feel free to explore my repositories and reach out if you'd like to collaborate. Let's build something amazing together! 🚀
+Thanks for visiting my GitHub! Feel free to explore my repositories! 🚀
 
 
