@@ -4,14 +4,6 @@ I'm Carina, a student at Cornell University majoring in Information Science (Dat
 
 ## 👩🏻‍💻 About Me
 
-- What I do:
-  - Data analysis and visualization
-  - Data science
-  - Business analytics
-  - Business intelligence
-  - Statistical modeling and hypothesis testing
-  - Machine learning
-
 - Skills:
   - Languages & Tools: Python, SQL, R, NumPy, Pandas, Scikit-Learn, Statsmodels, Matplotlib, Seaborn, Excel
   - Technologies: Tableau, HTML/CSS, R Studio
