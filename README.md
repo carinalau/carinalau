@@ -32,6 +32,7 @@ I'm Carina, a student at Cornell University majoring in Information Science (Dat
 - Relevant coursework @ Cornell:
   - Data Science (INFO 2950)
   - Practical Tools for Operations Research, Data Science, & Machine Learning (ORIE 3120)
+  - Data and the State (INFO 3130)
   - Causal Inference (INFO 3900)
   - Computing in Python (CS 1110)
   - Biological Statistics (BTRY 3010)
