@@ -7,11 +7,13 @@ I'm Carina, a student at Cornell University majoring in Information Science (Dat
 - What I do:
   - Data analysis and visualization
   - Data science
+  - Business analytics
+  - Business intelligence
   - Statistical modeling and hypothesis testing
   - Machine learning
 
 - Skills:
-  - Languages & Tools: Python, SQL, R, NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Excel
+  - Languages & Tools: Python, SQL, R, NumPy, Pandas, Scikit-Learn, Statsmodels, Matplotlib, Seaborn, Excel
   - Technologies: Tableau, HTML/CSS, R Studio
 
 - Interests:
@@ -29,6 +31,7 @@ I'm Carina, a student at Cornell University majoring in Information Science (Dat
 
 - Relevant coursework @ Cornell:
   - Data Science (INFO 2950)
+  - Practical Tools for Operations Research, Data Science, & Machine Learning (ORIE 3120)
   - Causal Inference (INFO 3900)
   - Computing in Python (CS 1110)
   - Biological Statistics (BTRY 3010)
@@ -46,7 +49,7 @@ I'm Carina, a student at Cornell University majoring in Information Science (Dat
 
 - Passionate about public speaking! TA'd Oral Communication (COMM 2010) at Cornell for two semesters and organized and judged an annual Cornell speech contest!
 
-- Always up for a challenging case study or collaborative project — love working in teams. As a business analyst for the <a href = "https://www.grccornell.org/">Global Research and Consulting Group</a>, it's all about tackling challenging real-world business challenges with a team!
+- Always up for a challenging case study or collaborative project — love working in teams. As a senior consultant & project manager for the <a href = "https://www.grccornell.org/">Global Research and Consulting Group</a>, it's all about tackling challenging real-world business challenges for clients with a team!
 
 Thanks for visiting my GitHub! Feel free to explore my repositories! 🚀
 
